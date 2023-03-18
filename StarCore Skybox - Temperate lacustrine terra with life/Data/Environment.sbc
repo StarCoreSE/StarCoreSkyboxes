@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Environment>
+    <Id>
+        <TypeId>EnvironmentDefinition</TypeId>
+        <SubtypeId>Default</SubtypeId>
+    </Id>
+  <SunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
+  <EnvironmentTexture>Textures\BackgroundCube\Final\BackgroundCube.dds</EnvironmentTexture>
+  <EnvironmentOrientation Yaw="0" Pitch="0" Roll="-1.0" />
+  <EnableFog>false</EnableFog>
+  <FogNear>1000</FogNear>
+  <FogFar>1000</FogFar>
+  <FogMultiplier>0</FogMultiplier>
+  <FogBacklightMultiplier>1</FogBacklightMultiplier>
+  <FogColor x="0" y="0" z="0" />
+  <SunDiffuse x="0.784313738" y="0.784313738" z="0.784313738" />
+  <SunIntensity>1.456</SunIntensity>
+  <SunSpecular x="0.784313738" y="0.784313738" z="0.784313738" />
+  <BackLightDiffuse x="0.545" y="0.643" z="0.8" />
+  <BackLightIntensity>0.8</BackLightIntensity>
+  <AmbientColor x="0.141176477" y="0.141176477" z="0.141176477" />
+  <AmbientMultiplier>0.969</AmbientMultiplier>
+  <EnvironmentAmbientIntensity>0.5</EnvironmentAmbientIntensity>
+  <BackgroundColor x="1" y="1" z="1" />
+  <SunMaterial>SunDisk</SunMaterial>
+
+  </Environment>
+</Definitions>
